@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Gaci_RentCar.Vistas.Mantenimientos.ClientPage">
+    <ContentPage.Content>
+        <StackLayout >
+            <Label x:Name="lbl_main"
+                   Text="Formulario Clientes"
+                   FontSize="Large"
+                   HorizontalTextAlignment="Center"
+                   Padding="8"/>
+            
+            <Entry x:Name="lbl_search"
+                           Placeholder="Buscar cliente por usuario"
+                           FontSize="Medium" Margin="5"/>
+
+            <Frame BackgroundColor="#f5d061" Margin="8" CornerRadius="2" BorderColor="#1c1d21">
+                <StackLayout>
+                    <Entry x:Name="lbl_name"
+                           Placeholder="Nombre cliente"
+                           FontSize="Medium"/>
+                    
+                    <Entry x:Name="lbl_user"
+                           Placeholder="Usuario cliente"
+                           FontSize="Medium"/>
+                    
+                    <Entry x:Name="lbl_mail"
+                           Placeholder="Correo cliente"
+                           FontSize="Medium"/>
+                    
+                    <Entry x:Name="lbl_password"
+                           Placeholder="Contraseña cliente"
+                           FontSize="Medium"
+                           IsPassword="True"/>
+                </StackLayout>
+            </Frame>
+            <Button x:Name="btn_add"
+                    Text="Registrar cliente"
+                    FontSize="Large"
+                    CornerRadius="10"
+                    Margin="10"
+                    IsEnabled="True"
+                    TextColor="#1c1d21"
+                    BackgroundColor="#1f7c8e"
+                    FontAttributes="Bold"
+                    Padding="8"
+                    BorderWidth="2"/>
+            
+            <Button x:Name="btn_delete"
+                    Text="Eliminar cliente"
+                    FontSize="Large"
+                    CornerRadius="10"
+                    Margin="10"
+                    IsEnabled="False"
+                    TextColor="#1c1d21"
+                    BackgroundColor="#1f7c8e"
+                    FontAttributes="Bold"
+                    Padding="8"
+                    BorderWidth="2"/>
+            
+            <Button x:Name="btn_update"
+                    Text="Actualizar cliente"
+                    FontSize="Large"
+                    CornerRadius="10"
+                    Margin="10"
+                    IsEnabled="False"
+                    TextColor="#1c1d21"
+                    BackgroundColor="#1f7c8e"
+                    FontAttributes="Bold"
+                    Padding="8"
+                    BorderWidth="2"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

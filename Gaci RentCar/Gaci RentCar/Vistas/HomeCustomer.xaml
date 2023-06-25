@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Navbar-->
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local ="clr-namespace:Gaci_RentCar.Vistas"
+             xmlns:local1 ="clr-namespace:Gaci_RentCar.Vistas.Mantenimientos"
+             x:Class="Gaci_RentCar.Vistas.HomeCustomer"
+             BackgroundColor="#1f7c8e"
+             ForegroundColor="White"
+             TitleColor="White"
+             DisabledColor="#B4FFFFFF"
+             UnselectedColor="#95FFFFFF" FlyoutBackdrop="#1f7c8e" FlyoutBackground="white" >
+    
+    <Shell.FlyoutHeader>
+        <local:HeaderContentView/>
+    </Shell.FlyoutHeader>
+ 
+    <FlyoutItem Title="Gaci" 
+                   Shell.TabBarIsVisible="False"
+                   FlyoutDisplayOptions="AsMultipleItems" >
+        <ShellContent Title="Inicio" Icon="Home.png" IsTabStop="True" ContentTemplate="{DataTemplate local:Home}"/>
+        <Tab Title="Mantenimientos"
+             Icon="Maintenance.png">
+            <ShellContent Title="Clientes"
+                          Icon="prueba.png"
+                          ContentTemplate="{DataTemplate local1:ClientPage}"/>
+            <ShellContent Title="Vehiculos"
+                          Icon="prueba.png"
+                          ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+            <ShellContent Title="Reparaciones"
+                          Icon="prueba.png"
+                          ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+            <ShellContent Title="Servicios"
+                          Icon="prueba.png"
+                          ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+            <ShellContent Title="Mantenimiento"
+                          Icon="prueba.png"
+                          ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+            <ShellContent Title="Precios"
+                          Icon="prueba.png"
+                          ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+        </Tab>
+        <ShellContent Title="Reservaciones" Icon="Booking" IsTabStop="True" ContentTemplate="{DataTemplate local:BookingsPage}" />
+        <ShellContent Title="Reportes" Icon="Report.png" IsTabStop="True" ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+    </FlyoutItem>
+    <ShellContent Title="Cerrar Sesion" Icon="Exit.png" IsTabStop="True" ContentTemplate="{DataTemplate local:MaintenancePage}" />
+    <ShellContent Title="Acerca de" Icon="Info.png" IsTabStop="True" ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+
+</Shell>

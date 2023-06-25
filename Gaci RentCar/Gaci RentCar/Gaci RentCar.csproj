@@ -1,0 +1,75 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+    <ProduceReferenceAssemblyInOutDir>true</ProduceReferenceAssemblyInOutDir>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NewFolder1\**" />
+    <Compile Remove="NewFolder2\**" />
+    <Compile Remove="NewFolder4\**" />
+    <Compile Remove="NewFolder\**" />
+    <EmbeddedResource Remove="NewFolder1\**" />
+    <EmbeddedResource Remove="NewFolder2\**" />
+    <EmbeddedResource Remove="NewFolder4\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <None Remove="NewFolder1\**" />
+    <None Remove="NewFolder2\**" />
+    <None Remove="NewFolder4\**" />
+    <None Remove="NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="MainPage.xaml.cs" />
+    <Compile Remove="Vistas\.xaml.cs" />
+    <Compile Remove="Vistas\Reservas.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="MainPage.xaml" />
+    <EmbeddedResource Remove="Vistas\.xaml" />
+    <EmbeddedResource Remove="Vistas\Reservas.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="NewFolder3\HomeCustomers.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="NewFolder3\HomeCustomersDetail.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="NewFolder3\HomeCustomersFlyout.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\BookingsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\HeaderContentView.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\Home.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\HomeCustomer.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\Mantenimientos\ClientPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Vistas\Mantenimientos\MaintenancePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
