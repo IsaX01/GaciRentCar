@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj": {}
+    "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj": {
+    "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj",
+        "projectUniqueName": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj",
         "projectName": "Gaci RentCar",
-        "projectPath": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj",
+        "projectPath": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj",
         "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar\\obj\\",
+        "outputPath": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,7 +71,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

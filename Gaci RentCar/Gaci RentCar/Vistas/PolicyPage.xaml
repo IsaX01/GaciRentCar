@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Gaci_RentCar.Vistas.PolicyPage">
+    <ContentPage.Content>
+        <ScrollView>
+        <Frame BackgroundColor="#f5d061" Margin="10" CornerRadius="2" BorderColor="#1c1d21">   
+        <StackLayout Padding="5">
+            <Label Text="Políticas de privacidad de Gaci RentCar" VerticalTextAlignment="Center" FontSize="Medium" TextColor="#1c1d21"/>
+            <Label Text="Bienvenido/a a Gaci RentCar, una aplicación de alquiler de autos. Tu privacidad es importante para nosotros y nos comprometemos a protegerla. Esta política de privacidad te informa sobre cómo recopilamos, utilizamos y protegemos la información personal que recopilamos a través de nuestra aplicación. Al utilizar nuestra aplicación, aceptas las prácticas descritas en esta política de privacidad." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="1. Información recopilada" TextColor="#1c1d21" FontAttributes="Bold"/>
+            <Label Text="1.1 Información personal: Recopilamos información personal que nos proporcionas cuando te registras en nuestra aplicación, como tu nombre, dirección de correo electrónico, número de teléfono y dirección." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="1.2 Información de la reserva: Cuando realizas una reserva a través de nuestra aplicación, recopilamos información relacionada con el alquiler de autos, como las fechas de inicio y finalización del alquiler, el lugar de recogida y entrega del vehículo, y cualquier otra información necesaria para procesar tu reserva." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="1.3 Información de pago: Si decides realizar pagos a través de nuestra aplicación, recopilaremos la información necesaria para procesar los pagos, como los datos de tu tarjeta de crédito o débito." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="1.4 Información del dispositivo: Recopilamos información sobre el dispositivo que utilizas para acceder a nuestra aplicación, como el modelo del dispositivo, el sistema operativo, la dirección IP y los identificadores únicos del dispositivo." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="1.5 Información de ubicación: Podemos recopilar información sobre tu ubicación si nos otorgas permiso para acceder a la ubicación de tu dispositivo. Esta información se utiliza para proporcionarte servicios basados en la ubicación, como ayudarte a encontrar la ubicación de recogida de un auto de alquiler." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="2. Uso de la información recopilada" TextColor="#1c1d21" FontAttributes="Bold"/>
+            <Label Text="2.1 Utilizamos la información recopilada para proporcionarte nuestros servicios de alquiler de autos y gestionar tus reservas." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="2.2 Podemos utilizar tu información de contacto para comunicarnos contigo sobre tu reserva, responder a tus consultas y brindarte información relevante sobre nuestros servicios." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="2.3 Utilizamos la información de pago para procesar tus pagos y garantizar la seguridad de las transacciones." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="2.4 La información del dispositivo y de ubicación se utiliza para mejorar y personalizar tu experiencia con nuestra aplicación, así como para realizar análisis y estadísticas sobre el uso de la aplicación." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="3. Divulgación de la información" TextColor="#1c1d21" FontAttributes="Bold"/>
+            <Label Text="3.1 Podemos compartir tu información personal con proveedores de servicios de confianza que nos ayudan a proporcionar nuestros servicios, como empresas de procesamiento de pagos y proveedores de servicios de alojamiento de datos." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="3.2 También podemos divulgar tu información personal si creemos de buena fe que es necesario hacerlo para cumplir con la ley, proteger nuestros derechos legales o responder a una solicitud legal válida." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="4. Seguridad de la información" TextColor="#1c1d21" FontAttributes="Bold"/>
+            <Label Text="4.1 Implementamos medidas de seguridad adecuadas para proteger la información personal que recopilamos y mantenerla segura. Sin embargo, ten en cuenta que ninguna transmisión de datos por Internet o método de almacenamiento electrónico es completamente seguro, y no podemos garantizar la seguridad absoluta de la información." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="5. Tus derechos" TextColor="#1c1d21" FontAttributes="Bold"/>
+            <Label Text="5.1 Tienes derecho a acceder, corregir y eliminar tu información personal. Puedes hacerlo accediendo a tu perfil en la aplicación o contactándonos directamente." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="5.2 Puedes optar por no recibir comunicaciones de marketing por parte de Gaci RentCar siguiendo las instrucciones de exclusión proporcionadas en dichas comunicaciones." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="6. Cambios en la política de privacidad" TextColor="#1c1d21" FontAttributes="Bold"/>
+            <Label Text="6.1 Podemos actualizar esta política de privacidad de vez en cuando. Te notificaremos sobre cualquier cambio importante publicando la política de privacidad actualizada en nuestra aplicación o mediante otros medios razonables." TextColor="#1c1d21" FontSize="15"/>
+            <Label Text="7. Contacto" TextColor="#1c1d21" FontAttributes="Bold"/>
+            <Label Text="7.1 Si tienes alguna pregunta, inquietud o solicitud relacionada con esta política de privacidad, puedes contactarnos a través de los datos de contacto proporcionados en la aplicación." TextColor="#1c1d21" FontSize="15"/>
+        </StackLayout>
+        </Frame>
+        </ScrollView>
+    </ContentPage.Content>
+        
+</ContentPage>

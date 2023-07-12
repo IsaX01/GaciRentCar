@@ -6,48 +6,169 @@
     <ContentPage.Content>
        <ScrollView>
         <StackLayout>
-            
+
                 <Label x:Name="lbl_main"
                    Text="Gaci Rent Car"
                    FontSize="Large"
                    HorizontalTextAlignment="Center"
-                   Padding="8"/>
-
-                <Entry x:Name="lbl_search"
+                   Padding="8" TextColor="#1c1d21" TextDecorations="Underline"/>
+                <Frame BackgroundColor="#f5d061" Margin="8" CornerRadius="2" BorderColor="#1c1d21">
+                    <StackLayout>
+                        <Entry x:Name="lbl_search"
                            Placeholder="Buscar Vehiculo"
-                           FontSize="Medium" Margin="5"/>
-                
-                <Frame BackgroundColor="#f5d061" Margin="8" CornerRadius="2" BorderColor="#1c1d21">
-                    <StackLayout>
-                        <Image Source="https://www.cnet.com/a/img/JV_Ni9SmuCjBn0m4s2IROe-vAt8=/1200x630/2014/10/28/368cda77-87e5-42c8-b70a-3949c768ae0f/2015-hyundai-sonata-limited-04.jpg"
-                               HeightRequest="250"
-                               VerticalOptions="FillAndExpand"/>
-                        <Label Text="Disponible para renta" FontSize="Medium"/>
-                        <Label Text="Sonata 2016" FontSize="Medium"/>
-                </StackLayout>
+                           FontSize="Medium" Margin="-15" PlaceholderColor="#424242"/>
+                    </StackLayout>
                 </Frame>
-                    
                 <Frame BackgroundColor="#f5d061" Margin="8" CornerRadius="2" BorderColor="#1c1d21">
-                    <StackLayout>
+                    <Grid RowSpacing="15"
+                          ColumnSpacing="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.8*"/>
+                            <ColumnDefinition Width="0.8*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height='50'/>
+                            <RowDefinition Height='100'/>
+                            <RowDefinition Height="2"/>
+                            <RowDefinition Height="100"/>
+                            <RowDefinition Height="2"/>
+                            <RowDefinition Height="65"/>
+                            <RowDefinition Height="2"/>
+                            <RowDefinition Height="100"/>
+                        </Grid.RowDefinitions>
+
+
+                        <Label Text="Hyundai y20" FontSize="Medium" TextColor="#1c1d21" Grid.Column="0" Grid.Row="0" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" FontAttributes="Bold"/>
+                        <Image Source="Info.png" WidthRequest="25" HeightRequest="33" Grid.Column="0" Grid.Row="0" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" Margin="100,0,0,0" />
+                        <Label Text="Disponible para renta" FontSize="19" Grid.Column="1" Grid.Row="0" HorizontalOptions="CenterAndExpand" TextColor="#1f7c8e" FontAttributes="Bold"/>
                         <Image Source="https://www.cnet.com/a/img/JV_Ni9SmuCjBn0m4s2IROe-vAt8=/1200x630/2014/10/28/368cda77-87e5-42c8-b70a-3949c768ae0f/2015-hyundai-sonata-limited-04.jpg"
-                               HeightRequest="250"
-                               VerticalOptions="FillAndExpand"/>
-                        <Label Text="Disponible para renta" FontSize="Medium"/>
-                        <Label Text="Sonata 2016" FontSize="Medium"/>
-                </StackLayout>
+                               Grid.Column="0" Grid.Row="1" HorizontalOptions="StartAndExpand"/>
+
+                        <Label Text="5 Pasajeros" FontSize="Small" Grid.Column="1" Grid.Row="1"  HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Passenger.png" WidthRequest="25" HeightRequest="24" Grid.Column="1" Grid.Row="1" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" Margin="5,0,0,0" />
+
+                        <Label Text="4 Puertas" FontSize="Small" Grid.Column="1" Grid.Row="1"  HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Door.png" WidthRequest="25" HeightRequest="24" Grid.Column="1" Grid.Row="1" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Margin="0,0,20,0" />
+
+                        <Label Text="Transmision automatica" FontSize="Small" Grid.Column="1" Grid.Row="1"  HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Transmission.png" WidthRequest="16" HeightRequest="24" Grid.Column="1" Grid.Row="1" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Margin="0,0,0,0" />
+                        
+                        <BoxView Grid.Row="2" Grid.ColumnSpan="2"
+                          Color="#1c1d21" />
+                        <Label Text="kilometraje ilimitado" FontSize="Small" Grid.Column="0" Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Check.png" WidthRequest="25" HeightRequest="24" Grid.Column="0" Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="StartAndExpand" Margin="0,0,20,0" />
+
+                        <Label Text="Asegurado contra robo" FontSize="Small" Grid.Column="0" Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Check.png" WidthRequest="25" HeightRequest="24" Grid.Column="0" Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Margin="0,0,0,0" />
+
+                        <Label Text="Sin costos adicionales" FontSize="Small" Grid.Column="0" Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Check.png" WidthRequest="25" HeightRequest="24" Grid.Column="0" Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Margin="0,0,0,0" />
+
+                        <Label Text="Cobertura del seguro" FontSize="Small" Grid.Column="1" Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Check.png" WidthRequest="25" HeightRequest="24" Grid.Column="1" Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="StartAndExpand" Margin="0,0,10,0" />
+
+                        <Label Text="Matricula al dia" FontSize="Small" Grid.Column="1" Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Check.png" WidthRequest="25" HeightRequest="24" Grid.Column="1" Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Margin="0,0,50,0" />
+
+                        <BoxView Grid.Row="4" Grid.ColumnSpan="2"
+                                 Color="#1c1d21" />
+                        <Image Source="Verified.png" WidthRequest="100" HeightRequest="35" Grid.Column="1" Grid.Row="5" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" Margin="30,0,0,0" />
+                        <Label Text="Consulta el depósito de seguridad, montos en exceso y otros requisitos" FontSize="19" Grid.ColumnSpan="2" Grid.Row="5" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" TextColor="#1f7c8e" FontAttributes="Bold"/>
+                        <BoxView Grid.Row="6" Grid.ColumnSpan="2"
+                                 Color="#1c1d21" />
+                        <Label Text="Desde" FontSize="Small" Grid.Column="0" Grid.Row="7" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Label Text="$2000" FontSize="30" Grid.Column="0" Grid.Row="7" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" TextColor="#1f7c8e" FontAttributes="Bold"/>
+                        <Label Text="Opciones de pago" FontSize="Small" Grid.Column="0" Grid.Row="7" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" TextColor="#blue" FontAttributes="Bold"/>
+                        <Image Source="Payment.png" WidthRequest="30" HeightRequest="24" Grid.Column="0" Grid.Row="7" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Margin="0,0,30,0" />
+                        <Button x:Name="btn_continue"
+                                  Text="Continuar"
+                                  FontSize="20"
+                                  CornerRadius="10"
+                                  Margin="10"
+                                  TextColor="#1c1d21"
+                                  BackgroundColor="#1f7c8e"
+                                  FontAttributes="Bold"
+                                  Padding="8"
+                                  BorderWidth="2" Grid.Column="1" Grid.Row="7"/>
+                    </Grid> 
                 </Frame>
-                    
+
                 <Frame BackgroundColor="#f5d061" Margin="8" CornerRadius="2" BorderColor="#1c1d21">
-                    <StackLayout>
+                    <Grid RowSpacing="15"
+                          ColumnSpacing="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.8*"/>
+                            <ColumnDefinition Width="0.8*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height='50'/>
+                            <RowDefinition Height='100'/>
+                            <RowDefinition Height="2"/>
+                            <RowDefinition Height="100"/>
+                            <RowDefinition Height="2"/>
+                            <RowDefinition Height="65"/>
+                            <RowDefinition Height="2"/>
+                            <RowDefinition Height="100"/>
+                        </Grid.RowDefinitions>
+
+
+                        <Label Text="Hyundai y20" FontSize="Medium" TextColor="#1c1d21" Grid.Column="0" Grid.Row="0" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand"/>
+                        <Image Source="Info.png" WidthRequest="25" HeightRequest="33" Grid.Column="0" Grid.Row="0" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" Margin="100,0,0,0" />
+                        <Label Text="Disponible para renta" FontSize="19" Grid.Column="1" Grid.Row="0" HorizontalOptions="CenterAndExpand" TextColor="#1f7c8e" FontAttributes="Bold"/>
                         <Image Source="https://www.cnet.com/a/img/JV_Ni9SmuCjBn0m4s2IROe-vAt8=/1200x630/2014/10/28/368cda77-87e5-42c8-b70a-3949c768ae0f/2015-hyundai-sonata-limited-04.jpg"
-                               HeightRequest="250"
-                               VerticalOptions="FillAndExpand"/>
-                        <Label Text="Disponible para renta" FontSize="Medium"/>
-                        <Label Text="Sonata 2016" FontSize="Medium"/>
-                </StackLayout>
+                               Grid.Column="0" Grid.Row="1" HorizontalOptions="StartAndExpand"/>
+
+                        <Label Text="5 Pasajeros" FontSize="Small" Grid.Column="1" Grid.Row="1"  HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Passenger.png" WidthRequest="25" HeightRequest="24" Grid.Column="1" Grid.Row="1" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" Margin="5,0,0,0" />
+
+                        <Label Text="4 Puertas" FontSize="Small" Grid.Column="1" Grid.Row="1"  HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Door.png" WidthRequest="25" HeightRequest="24" Grid.Column="1" Grid.Row="1" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Margin="0,0,20,0" />
+
+                        <Label Text="Transmision automatica" FontSize="Small" Grid.Column="1" Grid.Row="1"  HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Transmission.png" WidthRequest="16" HeightRequest="24" Grid.Column="1" Grid.Row="1" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Margin="0,0,0,0" />
+
+                        <BoxView Grid.Row="2" Grid.ColumnSpan="2"
+                          Color="#1c1d21" />
+                        <Label Text="kilometraje ilimitado" FontSize="Small" Grid.Column="0" Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Check.png" WidthRequest="25" HeightRequest="24" Grid.Column="0" Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="StartAndExpand" Margin="0,0,20,0" />
+
+                        <Label Text="Asegurado contra robo" FontSize="Small" Grid.Column="0" Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Check.png" WidthRequest="25" HeightRequest="24" Grid.Column="0" Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Margin="0,0,0,0" />
+
+                        <Label Text="Sin costos adicionales" FontSize="Small" Grid.Column="0" Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Check.png" WidthRequest="25" HeightRequest="24" Grid.Column="0" Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Margin="0,0,0,0" />
+
+                        <Label Text="Cobertura del seguro" FontSize="Small" Grid.Column="1" Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Check.png" WidthRequest="25" HeightRequest="24" Grid.Column="1" Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="StartAndExpand" Margin="0,0,10,0" />
+
+                        <Label Text="Matricula al dia" FontSize="Small" Grid.Column="1" Grid.Row="3" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Image Source="Check.png" WidthRequest="25" HeightRequest="24" Grid.Column="1" Grid.Row="3" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Margin="0,0,50,0" />
+
+                        <BoxView Grid.Row="4" Grid.ColumnSpan="2"
+                                 Color="#1c1d21" />
+                        <Image Source="Verified.png" WidthRequest="100" HeightRequest="35" Grid.Column="1" Grid.Row="5" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" Margin="30,0,0,0" />
+                        <Label Text="Consulta el depósito de seguridad, montos en exceso y otros requisitos" FontSize="19" Grid.ColumnSpan="2" Grid.Row="5" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" TextColor="#1f7c8e" FontAttributes="Bold"/>
+                        <BoxView Grid.Row="6" Grid.ColumnSpan="2"
+                                 Color="#1c1d21" />
+                        <Label Text="Desde" FontSize="Small" Grid.Column="0" Grid.Row="7" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" TextColor="#1c1d21" FontAttributes="Bold"/>
+                        <Label Text="$2000" FontSize="30" Grid.Column="0" Grid.Row="7" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" TextColor="#1f7c8e" FontAttributes="Bold"/>
+                        <Label Text="Opciones de pago" FontSize="Small" Grid.Column="0" Grid.Row="7" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" TextColor="#blue" FontAttributes="Bold"/>
+                        <Image Source="Payment.png" WidthRequest="30" HeightRequest="24" Grid.Column="0" Grid.Row="7" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" Margin="0,0,30,0" />
+                        <Button x:Name="btn_continue1"
+                                  Text="Continuar"
+                                  FontSize="20"
+                                  CornerRadius="10"
+                                  Margin="10"
+                                  TextColor="#1c1d21"
+                                  BackgroundColor="#1f7c8e"
+                                  FontAttributes="Bold"
+                                  Padding="8"
+                                  BorderWidth="2" Grid.Column="1" Grid.Row="7"/>
+                    </Grid>
                 </Frame>
-            
-        </StackLayout>
+
+
+            </StackLayout>
        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

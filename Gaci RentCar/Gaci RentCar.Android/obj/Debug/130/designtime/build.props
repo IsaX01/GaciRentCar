@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638230490606860616
+_nugetassetstimestamp=638233052354131385
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\isaia\source\repos\gaci rentcar\gaci rentcar\gaci rentcar.android\gaci rentcar.android.csproj
+projectfullpath=c:\users\isaia\source\repos\gacirentcar\gaci rentcar\gaci rentcar.android\gaci rentcar.android.csproj
