@@ -163,4 +163,31 @@
   <ItemGroup>
     <BundleResource Include="Resources\Maintenance.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Setttings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Policy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Terms.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Verified.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Payment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Passenger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Transmission.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Door.png" />
+  </ItemGroup>
 </Project>

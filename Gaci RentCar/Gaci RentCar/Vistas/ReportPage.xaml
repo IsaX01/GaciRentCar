@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Gaci_RentCar.Vistas.ReportPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView>
+                <ListView.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Reporte de Clientes</x:String>
+                        <x:String>Reporte de Vehiculos</x:String>
+                        <x:String>Reporte de Reservas</x:String>
+                        <x:String>Reporte de Reparaciones</x:String>
+                        <x:String>Reporte de Servicios</x:String>
+                        <x:String>Reporte de Pagos</x:String>
+                        <x:String>Reporte de Mantenimiento</x:String>
+                    </x:Array>
+                </ListView.ItemsSource>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

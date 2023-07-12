@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.Android\\Gaci RentCar.Android.csproj",
+      "projectUniqueName": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.Android\\Gaci RentCar.Android.csproj",
       "projectName": "Gaci RentCar.Android",
-      "projectPath": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.Android\\Gaci RentCar.Android.csproj",
+      "projectPath": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.Android\\Gaci RentCar.Android.csproj",
       "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.Android\\obj\\",
+      "outputPath": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj": {
-              "projectPath": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj"
+            "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj": {
+              "projectPath": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj"
             }
           }
         }
@@ -3452,14 +3452,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.7.0, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

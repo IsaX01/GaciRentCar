@@ -1253,11 +1253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.iOS\\Gaci RentCar.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.iOS\\Gaci RentCar.iOS.csproj",
       "projectName": "Gaci RentCar.iOS",
-      "projectPath": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.iOS\\Gaci RentCar.iOS.csproj",
+      "projectPath": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.iOS\\Gaci RentCar.iOS.csproj",
       "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.iOS\\obj\\",
+      "outputPath": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj": {
-              "projectPath": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj"
+            "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj": {
+              "projectPath": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj"
             }
           }
         }

@@ -3,6 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Gaci_RentCar.Vistas.MaintenancePage">
     <ContentPage.Content>
-        <Label Text="Pagina de mantenimiento" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+        <Label Text="Pagina de mantenimiento" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="Medium"/>
     </ContentPage.Content>
 </ContentPage>

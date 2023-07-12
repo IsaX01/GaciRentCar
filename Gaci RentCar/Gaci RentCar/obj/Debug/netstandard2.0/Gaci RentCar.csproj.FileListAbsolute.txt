@@ -18,3 +18,31 @@ C:\Users\isaia\source\repos\Gaci RentCar\Gaci RentCar\Gaci RentCar\obj\Debug\net
 C:\Users\isaia\source\repos\Gaci RentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\Home.xaml.g.cs
 C:\Users\isaia\source\repos\Gaci RentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\Mantenimientos\MaintenancePage.xaml.g.cs
 C:\Users\isaia\source\repos\Gaci RentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\Mantenimientos\ClientPage.xaml.g.cs
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\bin\Debug\netstandard2.0\Gaci RentCar.deps.json
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\bin\Debug\netstandard2.0\Gaci RentCar.dll
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\bin\Debug\netstandard2.0\ref\Gaci RentCar.dll
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\bin\Debug\netstandard2.0\Gaci RentCar.pdb
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Gaci RentCar.csproj.AssemblyReference.cache
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Gaci RentCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\BookingsPage.xaml.g.cs
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\HeaderContentView.xaml.g.cs
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\Home.xaml.g.cs
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\HomeCustomer.xaml.g.cs
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\Mantenimientos\ClientPage.xaml.g.cs
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\Mantenimientos\MaintenancePage.xaml.g.cs
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Gaci RentCar.AssemblyInfoInputs.cache
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Gaci RentCar.AssemblyInfo.cs
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Gaci RentCar.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Gaci RentCar.dll
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\refint\Gaci RentCar.dll
+C:\Users\isaia\Source\Repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Gaci RentCar.pdb
+C:\Users\isaia\source\repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\ConfigPage.xaml.g.cs
+C:\Users\isaia\source\repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\Mantenimientos\CarPage.xaml.g.cs
+C:\Users\isaia\source\repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\Mantenimientos\PricePage.xaml.g.cs
+C:\Users\isaia\source\repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\Mantenimientos\RepairPage.xaml.g.cs
+C:\Users\isaia\source\repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\Mantenimientos\ServicesPage.xaml.g.cs
+C:\Users\isaia\source\repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\PolicyPage.xaml.g.cs
+C:\Users\isaia\source\repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\ReportPage.xaml.g.cs
+C:\Users\isaia\source\repos\GaciRentCar\Gaci RentCar\Gaci RentCar\obj\Debug\netstandard2.0\Vistas\TermsPage.xaml.g.cs

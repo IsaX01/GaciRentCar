@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4cAdF3O4hjBci1DZF8eCFmRYVvuzFeM1SOOLkr8frTRaueCWi3zH4wN8DL0tMN3Z91E3ClIlT5yVwJ7wcuFyrg==",
+  "dgSpecHash": "kWWU3ocBtOh+fm9hilzzSevSPp6Ja2RwBtY4uPRuGma9gqicv4XfX9TC7wDIQe/1Hk9TWdnYxTwPmvkUNFEWag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isaia\\source\\repos\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj",
+  "projectFilePath": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isaia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\isaia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

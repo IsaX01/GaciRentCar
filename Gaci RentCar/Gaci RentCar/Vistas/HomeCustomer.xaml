@@ -26,22 +26,25 @@
                           ContentTemplate="{DataTemplate local1:ClientPage}"/>
             <ShellContent Title="Vehiculos"
                           Icon="prueba.png"
-                          ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+                          ContentTemplate="{DataTemplate local1:CarPage}"/>
             <ShellContent Title="Reparaciones"
                           Icon="prueba.png"
-                          ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+                          ContentTemplate="{DataTemplate local1:RepairPage}"/>
             <ShellContent Title="Servicios"
                           Icon="prueba.png"
-                          ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+                          ContentTemplate="{DataTemplate local1:ServicesPage}"/>
             <ShellContent Title="Mantenimiento"
                           Icon="prueba.png"
                           ContentTemplate="{DataTemplate local:MaintenancePage}"/>
             <ShellContent Title="Precios"
                           Icon="prueba.png"
-                          ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+                          ContentTemplate="{DataTemplate local1:PricePage}"/>
         </Tab>
         <ShellContent Title="Reservaciones" Icon="Booking" IsTabStop="True" ContentTemplate="{DataTemplate local:BookingsPage}" />
-        <ShellContent Title="Reportes" Icon="Report.png" IsTabStop="True" ContentTemplate="{DataTemplate local:MaintenancePage}"/>
+        <ShellContent Title="Reportes" Icon="Report.png" IsTabStop="True" ContentTemplate="{DataTemplate local:ReportPage}"/>
+        <ShellContent Title="Configuracion" Icon="Setttings.png" IsTabStop="True" ContentTemplate="{DataTemplate local:ConfigPage}"/>
+        <ShellContent Title="Politicas de privacidad" Icon="Policy.png" IsTabStop="True" ContentTemplate="{DataTemplate local:PolicyPage}"/>
+        <ShellContent Title="Terminos y Condiciones" Icon="Terms.png" IsTabStop="True" ContentTemplate="{DataTemplate local:TermsPage}"/>
     </FlyoutItem>
     <ShellContent Title="Cerrar Sesion" Icon="Exit.png" IsTabStop="True" ContentTemplate="{DataTemplate local:MaintenancePage}" />
     <ShellContent Title="Acerca de" Icon="Info.png" IsTabStop="True" ContentTemplate="{DataTemplate local:MaintenancePage}"/>
