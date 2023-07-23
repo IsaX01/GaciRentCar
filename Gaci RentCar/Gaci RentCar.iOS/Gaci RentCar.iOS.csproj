@@ -190,4 +190,7 @@
   <ItemGroup>
     <BundleResource Include="Resources\Door.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Captura.PNG" />
+  </ItemGroup>
 </Project>
