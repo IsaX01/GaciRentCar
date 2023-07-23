@@ -10,7 +10,9 @@ namespace Gaci_RentCar
         {
             InitializeComponent();
 
-            MainPage = new HomeCustomer();
+            // MainPage = new HomeCustomer();
+
+            MainPage = new NavigationPage(new login());
         }
 
         protected override void OnStart()

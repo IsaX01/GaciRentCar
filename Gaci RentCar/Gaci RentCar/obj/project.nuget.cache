@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "kWWU3ocBtOh+fm9hilzzSevSPp6Ja2RwBtY4uPRuGma9gqicv4XfX9TC7wDIQe/1Hk9TWdnYxTwPmvkUNFEWag==",
+  "dgSpecHash": "FnDMCcRsvk8EYjctp2AwNxpNbVGUps/xTZ83fduFWfIhIxpDqKNnxpMmVRYqdeVQH5cKYoNjCMNgukL14SJG7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isaia\\source\\repos\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj",
+  "projectFilePath": "C:\\Users\\0618g\\Desktop\\PROYECTO MOVIL\\GaciRentCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\isaia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\isaia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\isaia\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\isaia\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\isaia\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\0618g\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\0618g\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\0618g\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\0618g\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\0618g\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }
