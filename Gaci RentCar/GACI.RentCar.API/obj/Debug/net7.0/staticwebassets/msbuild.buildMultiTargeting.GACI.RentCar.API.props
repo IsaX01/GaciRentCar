@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GACI.RentCar.API.props" />
+</Project>

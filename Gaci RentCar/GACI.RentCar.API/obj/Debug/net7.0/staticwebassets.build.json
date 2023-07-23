@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8mPyTNI3YeiI/B+ZgA2r8iI4pMX4rcvee30H58hMDMo=",
+  "Source": "GACI.RentCar.API",
+  "BasePath": "_content/GACI.RentCar.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

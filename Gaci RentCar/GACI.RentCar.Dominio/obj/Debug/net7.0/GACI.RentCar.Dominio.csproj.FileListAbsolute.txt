@@ -1,0 +1,24 @@
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\bin\Debug\net7.0\GACI.RentCar.Dominio.deps.json
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\bin\Debug\net7.0\GACI.RentCar.Dominio.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\bin\Debug\net7.0\GACI.RentCar.Dominio.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.csproj.AssemblyReference.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.AssemblyInfoInputs.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.AssemblyInfo.cs
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\obj\Debug\net7.0\refint\GACI.RentCar.Dominio.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Dominio\obj\Debug\net7.0\ref\GACI.RentCar.Dominio.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\bin\Debug\net7.0\GACI.RentCar.Dominio.deps.json
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\bin\Debug\net7.0\GACI.RentCar.Dominio.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\bin\Debug\net7.0\GACI.RentCar.Dominio.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.csproj.AssemblyReference.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.AssemblyInfoInputs.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.AssemblyInfo.cs
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\obj\Debug\net7.0\refint\GACI.RentCar.Dominio.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\obj\Debug\net7.0\GACI.RentCar.Dominio.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Dominio\obj\Debug\net7.0\ref\GACI.RentCar.Dominio.dll

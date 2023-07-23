@@ -3408,24 +3408,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\0618g\\.nuget\\packages\\": {},
+    "C:\\Users\\abelc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0618g\\Desktop\\PROYECTO MOVIL\\GaciRentCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.Android\\Gaci RentCar.Android.csproj",
+      "projectUniqueName": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Gaci.RentaCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.Android\\Gaci RentCar.Android.csproj",
       "projectName": "Gaci RentCar.Android",
-      "projectPath": "C:\\Users\\0618g\\Desktop\\PROYECTO MOVIL\\GaciRentCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.Android\\Gaci RentCar.Android.csproj",
-      "packagesPath": "C:\\Users\\0618g\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0618g\\Desktop\\PROYECTO MOVIL\\GaciRentCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.Android\\obj\\",
+      "projectPath": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Gaci.RentaCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.Android\\Gaci RentCar.Android.csproj",
+      "packagesPath": "C:\\Users\\abelc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Gaci.RentaCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\0618g\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abelc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\0618g\\Desktop\\PROYECTO MOVIL\\GaciRentCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj": {
-              "projectPath": "C:\\Users\\0618g\\Desktop\\PROYECTO MOVIL\\GaciRentCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj"
+            "C:\\Users\\abelc\\OneDrive\\Escritorio\\Gaci.RentaCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj": {
+              "projectPath": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Gaci.RentaCar\\GaciRentCar\\Gaci RentCar\\Gaci RentCar\\Gaci RentCar.csproj"
             }
           }
         }

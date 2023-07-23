@@ -1,0 +1,38 @@
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Infraestructura.deps.json
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Infraestructura.runtimeconfig.json
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Infraestructura.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Infraestructura.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Aplicacion.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Dominio.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Aplicacion.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Dominio.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.AssemblyInfo.cs
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.csproj.CopyComplete
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\refint\GACI.RentCar.Infraestructura.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.genruntimeconfig.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.Infraestructura\obj\Debug\net7.0\ref\GACI.RentCar.Infraestructura.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Infraestructura.deps.json
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Infraestructura.runtimeconfig.json
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Infraestructura.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Infraestructura.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Aplicacion.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Dominio.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Aplicacion.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\bin\Debug\net7.0\GACI.RentCar.Dominio.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.AssemblyInfo.cs
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.csproj.CopyComplete
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\refint\GACI.RentCar.Infraestructura.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\GACI.RentCar.Infraestructura.genruntimeconfig.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.Infraestructura\obj\Debug\net7.0\ref\GACI.RentCar.Infraestructura.dll

@@ -1,0 +1,194 @@
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\appsettings.json
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.API.exe
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.API.deps.json
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.API.runtimeconfig.json
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.API.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.API.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Aplicacion.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Dominio.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Gaci.RentCar.Identity.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Infraestructura.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Aplicacion.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\Gaci.RentCar.Identity.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Infraestructura.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Dominio.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.csproj.AssemblyReference.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.AssemblyInfoInputs.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.AssemblyInfo.cs
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.csproj.CoreCompileInputs.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets\msbuild.GACI.RentCar.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GACI.RentCar.API.props
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GACI.RentCar.API.props
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GACI.RentCar.API.props
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\scopedcss\bundle\GACI.RentCar.API.styles.css
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.csproj.CopyComplete
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\refint\GACI.RentCar.API.dll
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.pdb
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.genruntimeconfig.cache
+C:\Users\abelc\source\repos\GACI.RentCar.Dominio\GACI.RentCar.API\obj\Debug\net7.0\ref\GACI.RentCar.API.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\appsettings.json
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.API.exe
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.API.deps.json
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.API.runtimeconfig.json
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.API.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.API.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Aplicacion.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Dominio.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Gaci.RentCar.Identity.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Infraestructura.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Aplicacion.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\Gaci.RentCar.Identity.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Infraestructura.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\bin\Debug\net7.0\GACI.RentCar.Dominio.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.csproj.AssemblyReference.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.AssemblyInfoInputs.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.AssemblyInfo.cs
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.csproj.CoreCompileInputs.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets\msbuild.GACI.RentCar.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GACI.RentCar.API.props
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GACI.RentCar.API.props
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GACI.RentCar.API.props
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\scopedcss\bundle\GACI.RentCar.API.styles.css
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.csproj.CopyComplete
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\refint\GACI.RentCar.API.dll
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.pdb
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\GACI.RentCar.API.genruntimeconfig.cache
+C:\Users\abelc\OneDrive\Escritorio\Gaci.RentaCar\GaciRentCar\Gaci RentCar\GACI.RentCar.API\obj\Debug\net7.0\ref\GACI.RentCar.API.dll
